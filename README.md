@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Lafaete Locações](https://www.lafaetelocacao.com.br/)
 
-- 🌱 I’m currently **studying Database at Puc Minas - MG**
+- 🌱 I’m currently **graduated in Database Technology at Puc Minas - Minas Gerais, Brazil**
 
 - 👯 I’m looking to collaborate on **the company grow**
 
