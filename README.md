@@ -3,7 +3,7 @@
 
 ![Gabriel Coelho GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGabrielC&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on [Lafaete Locações](https://www.lafaetelocacao.com.br/)
+- 🔭 I’m currently working on [GR Tecnologia Ltda]
 
 - 🌱 I’m currently **graduated in Database Technology at Puc Minas - Minas Gerais, Brazil**
 
